@@ -1,0 +1,16 @@
+{
+    "name": "dharmana/medc-api",
+    "type": "project",
+    "description": "WTH 2019",
+    "keywords": [
+        "banking"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.1.3",
+        "fideloper/proxy": "^4.0",
+        "ixudra/curl": "^6.16"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
